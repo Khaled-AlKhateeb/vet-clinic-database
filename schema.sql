@@ -1,5 +1,11 @@
-/* Database schema to keep the structure of entire database. */
+-- Table: public.animals
 
-CREATE TABLE animals (
-    name varchar(100)
+CREATE TABLE animals 
+(
+	id integer PRIMARY KEY,
+	name varchar (50),
+	date_of_birth date,
+	escape_attempts integer,
+	neutered bool,
+	weight_kg decimal
 );
