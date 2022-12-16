@@ -100,6 +100,7 @@ After you're finished please remove all the comments and instructions!
 - **[create animals table]**
 - **[query and update animals table]**
 - **[query multiple tables]**
+- **[add "join table" for visits]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
